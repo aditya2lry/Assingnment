@@ -2,6 +2,7 @@
 
 ## Setup Instructions:
 Install Python and necessary libraries as mentioned above.
+
 Set up MySQL database and update db_config with your database credentials.
 
 ## Running the Solution:
@@ -18,8 +19,10 @@ Saved the extracted URLs to both a CSV file and a MySQL database.
 
 ## Challenges:
 Handling pagination in Google search results to extract a sufficient number of URLs.
+
 Ensuring the headless browser runs efficiently and captures all relevant URLs.
 
 ## Code Quality:
 Organized the code into functions for better readability and maintainability.
+
 Provided clear documentation and setup instructions.
