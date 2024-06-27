@@ -7,6 +7,7 @@ Set up MySQL database and update db_config with your database credentials.
 ## Running the Solution:
 ### Run the script using the command:
 "python extract_urls.py"
+
 The script will perform a Google search, extract the URLs, and save them in a CSV file and a MySQL database.
 
 # Report
